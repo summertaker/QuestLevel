@@ -1,6 +1,8 @@
 ## Interface: 70300
-## Title: Quest Level
+## Title: QuestLevel
 ## Title-koKR: 퀘스트레벨
+## Notes: Shows Quest Level.
+## Notes-koKR: 퀘스트 레벨을 표시합니다.
 ## Author: Summertaker
 ## Version: 1.0
 
